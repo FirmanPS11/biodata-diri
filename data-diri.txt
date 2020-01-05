@@ -2,3 +2,4 @@ data diriku
 - Nama : Firman Purnomo Shiddiq
 - Tanggal Lahir : 11 Mei 1998
 - Alamat : Tamanan Bondowoso
+- Cita-cita : Programmer
